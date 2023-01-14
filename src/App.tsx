@@ -1,7 +1,7 @@
 import React from 'react';
 
 import './App.css';
-import {removeParentheses} from "./6kata/vowels removed";
+
 
 
 function App() {
